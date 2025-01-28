@@ -328,8 +328,8 @@ canvas {
 
 
 .gold-text {
-    font-size: 30vw;
-    letter-spacing: 35vw;
+    font-size: 30px;
+    letter-spacing: 40vw;
     white-space: nowrap;
     color: transparent;
     display: inline-block;
